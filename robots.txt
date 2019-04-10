@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://foodnutritioninfo.com/sitemap/sitemap.xml
